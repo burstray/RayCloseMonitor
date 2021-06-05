@@ -1,0 +1,7 @@
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\bin\Release\RayCloseMonitor.exe
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\bin\Release\RayCloseMonitor.pdb
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\obj\Release\RayCloseMonitor.csprojResolveAssemblyReference.cache
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\obj\Release\RayCloseMonitor.Properties.Resources.resources
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\obj\Release\RayCloseMonitor.csproj.GenerateResource.Cache
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\obj\Release\RayCloseMonitor.exe
+D:\!Sync\Dev.Proj\RayCloseMonitor\RayCloseMonitor\obj\Release\RayCloseMonitor.pdb
